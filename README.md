@@ -10,7 +10,7 @@ The idea was to keep the interface simple, clean, and focused on the experience 
 
 ## ✨ Preview
 
-![Mountain Explorer UI](preview/mountain-ui.png)
+![Mountain UI Preview](Preview/Mountain_UI_Preview.png)
 
 ---
 
